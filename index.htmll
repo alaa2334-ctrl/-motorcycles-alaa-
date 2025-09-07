@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>مركز الدراجات النارية</title>
+<style>
+body{font-family:tahoma,sans-serif;direction:rtl;margin:0;padding:0;background:#f5f5f5}
+header{background:#111;color:#fff;text-align:center;padding:20px}
+nav{text-align:center;margin:10px 0}nav a{margin:0 10px;text-decoration:none;color:#fff;background:#222;padding:8px 12px;border-radius:6px}
+section{padding:20px;text-align:right;background:#fff;margin:10px auto;max-width:900px;border-radius:8px}
+footer{text-align:center;padding:15px;background:#111;color:#fff;margin-top:20px}
+</style>
+</head>
+<body>
+<header><h1>مركز الدراجات النارية</h1><p>بيع – كماليات – صيانة</p></header>
+<nav><a href="#sales">البيع</a><a href="#accessories">الكماليات</a><a href="#maintenance">الصيانة</a><a href="#contact">تواصل</a></nav>
+<section id="sales"><h2>بيع الدراجات النارية</h2><p>دراجات نارية جديدة ومستعملة.</p></section>
+<section id="accessories"><h2>الكماليات والإكسسوارات</h2><p>خوذ، قفازات، ملابس حماية وقطع تزيين.</p></section>
+<section id="maintenance"><h2>خدمة الصيانة</h2><p>ورشة متكاملة للصيانة والإصلاحات.</p></section>
+<section id="contact"><h2>تواصل معنا</h2><p>📞 0598509428</p><p>📍 طولكرم – مقابل مدرسة العمريه</p><p><a href="https://wa.me/970598509428">💬 واتساب</a></p></section>
+<footer>© 2025 مركز الدراجات النارية – جميع الحقوق محفوظة</footer>
+</body>
+</html>
